@@ -3,7 +3,7 @@ from time import sleep
 
 def padre():
 
-    cantidadProcesos = int(input("Cuantos procesos quieres: "))
+    cantidadProcesos = int(input("¿Cuantos procesos quieres?: "))
 
     for x in range(cantidadProcesos):
         
